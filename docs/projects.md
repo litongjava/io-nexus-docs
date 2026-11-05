@@ -29,6 +29,7 @@
 | 项目 | 介绍 | 链接 |
 | --- | --- | --- |
 | java-openai | 统一的 Java 大模型客户端，用同一套模型调用 OpenAI、Gemini、Claude、OpenRouter 等平台。 | [文档](https://java-openai.io.nexus/) · [GitHub](https://github.com/litongjava/java-openai) |
+| DeepSeek Code | 开源的 AI 编程助手，包含命令行 dcl 和桌面客户端 dcd，支持多种模型、工具审批、子代理、MCP 和定时任务，并提供 Java SDK。 | [文档](https://deepseek-code.io.nexus/) · [GitHub](https://github.com/litongjava/deepseek-code) |
 | DeepSeek Browser Use | 面向 AI 智能体的有状态浏览器服务，基于 Java 21、tio-boot 和 Playwright。 | [文档](https://deepseek-browser-use.io.nexus/) · [GitHub](https://github.com/litongjava/deepseek-browser-use) |
 | telegram-bot-plus | 基于 TelegramBots 的 Java 机器人开发套件，提供发送限流、429 重试和按聊天顺序处理更新。 | [文档](https://telegram-bot.io.nexus/) · [GitHub](https://github.com/litongjava/telegram-bot-plus) |
 | max-translator-bot | 基于 telegram-bot-plus 和 tio-boot 的中英翻译机器人。 | [文档](https://telegram-bot.io.nexus/telegram-bot-plus/02) · [GitHub](https://github.com/litongjava/max-translator-bot) |

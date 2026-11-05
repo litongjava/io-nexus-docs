@@ -36,6 +36,10 @@ features:
     details: 基于 TelegramBots 的 Java 机器人开发套件，提供发送限流、429 重试和按聊天顺序处理更新。
     link: https://telegram-bot.io.nexus/
     linkText: 阅读文档
+  - title: DeepSeek Code
+    details: 开源的 AI 编程助手，包含命令行 dcl 和桌面客户端 dcd，支持多种模型、工具审批、子代理和 MCP。
+    link: https://deepseek-code.io.nexus/
+    linkText: 阅读文档
   - title: DeepSeek Browser Use
     details: 面向 AI 智能体的有状态浏览器服务，可通过 HTTP API 或 dsb 命令行操作网页。
     link: https://deepseek-browser-use.io.nexus/
