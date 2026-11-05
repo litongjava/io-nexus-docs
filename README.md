@@ -1,6 +1,6 @@
 # io-nexus-docs
 
-[io.nexus](https://io.nexus/) 的站点源码，介绍 Tong Li 的开源项目并提供项目和文档链接。
+[io.nexus](https://io.nexus/) 的站点源码，介绍 io-nexus 的开源项目并提供项目和文档链接。
 
 ## 本地开发
 

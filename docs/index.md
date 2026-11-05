@@ -3,7 +3,7 @@ layout: home
 title: io.nexus
 hero:
   name: io.nexus
-  text: Tong Li 的开源项目
+  text: io-nexus 的开源项目
   tagline: 基于 Java AIO 的 Web 框架，以及围绕它的数据库、微服务和 AI 工具
   image:
     src: /logo.png
@@ -24,9 +24,17 @@ features:
     details: 轻量的 Java 数据库操作框架，支持多数据源、读写分离、SQL 模板和 ActiveRecord。
     link: https://java-db.io.nexus/
     linkText: 阅读文档
+  - title: api-table
+    details: 基于 java-db 的通用数据表操作工具，自动完成数据表与 JSON 的转换。
+    link: https://api-table.io.nexus/
+    linkText: 阅读文档
   - title: java-openai
     details: 用统一的请求和响应模型调用 OpenAI、Gemini、Claude 等大模型平台。
     link: https://java-openai.io.nexus/
+    linkText: 阅读文档
+  - title: Telegram 机器人开发
+    details: 使用 Java 和 tio-boot 开发 Telegram 机器人，包括 Telegram4J、TelegramBots 和 telegram-bot-base。
+    link: https://telegram-bot.io.nexus/
     linkText: 阅读文档
   - title: DeepSeek Browser Use
     details: 面向 AI 智能体的有状态浏览器服务，可通过 HTTP API 或 dsb 命令行操作网页。

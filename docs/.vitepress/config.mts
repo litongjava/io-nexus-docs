@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   lang: "zh-CN",
   title: "io.nexus",
-  description: "Tong Li 的开源项目：Java 高性能 Web 框架、数据库工具、大模型客户端与 AI 浏览器服务",
+  description: "io-nexus 的开源项目：Java 高性能 Web 框架、数据库工具、大模型客户端与 AI 浏览器服务",
   cleanUrls: true,
   lastUpdated: false,
   head: [["link", { rel: "icon", href: "/logo.png" }]],
