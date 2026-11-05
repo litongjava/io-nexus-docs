@@ -32,8 +32,8 @@ features:
     details: 用统一的请求和响应模型调用 OpenAI、Gemini、Claude 等大模型平台。
     link: https://java-openai.io.nexus/
     linkText: 阅读文档
-  - title: Telegram 机器人开发
-    details: 使用 Java 和 tio-boot 开发 Telegram 机器人，包括 Telegram4J、TelegramBots 和 telegram-bot-base。
+  - title: telegram-bot-plus
+    details: 基于 TelegramBots 的 Java 机器人开发套件，提供发送限流、429 重试和按聊天顺序处理更新。
     link: https://telegram-bot.io.nexus/
     linkText: 阅读文档
   - title: DeepSeek Browser Use

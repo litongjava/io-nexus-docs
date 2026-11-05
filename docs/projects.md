@@ -30,7 +30,8 @@
 | --- | --- | --- |
 | java-openai | 统一的 Java 大模型客户端，用同一套模型调用 OpenAI、Gemini、Claude、OpenRouter 等平台。 | [文档](https://java-openai.io.nexus/) · [GitHub](https://github.com/litongjava/java-openai) |
 | DeepSeek Browser Use | 面向 AI 智能体的有状态浏览器服务，基于 Java 21、tio-boot 和 Playwright。 | [文档](https://deepseek-browser-use.io.nexus/) · [GitHub](https://github.com/litongjava/deepseek-browser-use) |
-| Telegram 机器人开发 | 使用 Java 和 tio-boot 开发 Telegram 机器人，包括 Telegram4J、TelegramBots 和 telegram-bot-base。 | [文档](https://telegram-bot.io.nexus/) · [GitHub](https://github.com/litongjava/telegram-bot-base) |
+| telegram-bot-plus | 基于 TelegramBots 的 Java 机器人开发套件，提供发送限流、429 重试和按聊天顺序处理更新。 | [文档](https://telegram-bot.io.nexus/) · [GitHub](https://github.com/litongjava/telegram-bot-plus) |
+| max-translator-bot | 基于 telegram-bot-plus 和 tio-boot 的中英翻译机器人。 | [文档](https://telegram-bot.io.nexus/telegram-bot-plus/02) · [GitHub](https://github.com/litongjava/max-translator-bot) |
 | java-llm-proxy | 支持多模型的大语言模型代理服务。 | [GitHub](https://github.com/litongjava/java-llm-proxy) |
 | whisper-cpp-server | 基于 OpenAI Whisper 的 C/C++ 实现的实时语音识别服务。 | [GitHub](https://github.com/litongjava/whisper-cpp-server) |
 
