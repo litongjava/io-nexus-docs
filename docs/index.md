@@ -38,6 +38,6 @@ features:
     linkText: 阅读文档
   - title: DeepSeek Browser Use
     details: 面向 AI 智能体的有状态浏览器服务，可通过 HTTP API 或 dsb 命令行操作网页。
-    link: https://github.com/litongjava/deepseek-browser-use
-    linkText: 查看项目
+    link: https://deepseek-browser-use.io.nexus/
+    linkText: 阅读文档
 ---
