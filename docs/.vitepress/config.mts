@@ -17,6 +17,6 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/litongjava" }],
     outline: { label: "本页目录" },
     docFooter: { prev: false, next: false },
-    footer: { message: "MIT License", copyright: "Copyright © Tong Li" },
+    footer: { message: "MIT License", copyright: "Copyright © IO Nexus" },
   },
 });
