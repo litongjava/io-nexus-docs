@@ -1,0 +1,9 @@
+/zh/* https://tio-boot.com/zh/:splat 301
+/en/* https://tio-boot.com/en/:splat 301
+/ai/* https://tio-boot.com/ai/:splat 301
+/about https://tio-boot.com/about 301
+/about.html https://tio-boot.com/about.html 301
+/ai-retrieval https://tio-boot.com/ai-retrieval 301
+/ai-retrieval.html https://tio-boot.com/ai-retrieval.html 301
+/llms.txt https://tio-boot.com/llms.txt 301
+/llms-full.txt https://tio-boot.com/llms-full.txt 301
