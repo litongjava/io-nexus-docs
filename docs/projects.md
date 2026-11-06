@@ -40,5 +40,6 @@
 
 | 项目 | 介绍 | 链接 |
 | --- | --- | --- |
+| eshell | 面向多项目开发的 Windows 桌面终端（原 BranchTerm），包含本地终端 BranchTerm 与 SSH 工作台 eShell，将项目、会话和文件预览放在同一窗口。 | [文档](https://eshell.io.nexus/) · [Gitee](https://gitee.com/ppnt/eshell) |
 | tio-websockify | WebSocket 与 TCP 双向转发服务，内置 noVNC，用浏览器操作远程桌面。 | [GitHub](https://github.com/litongjava/tio-websockify) |
 | yt-dlp-java | 通过 Java 调用 yt-dlp，并提供基于 tio-boot 的下载示例服务。 | [GitHub](https://github.com/litongjava/yt-dlp-java) |

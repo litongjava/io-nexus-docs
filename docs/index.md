@@ -44,4 +44,8 @@ features:
     details: 面向 AI 智能体的有状态浏览器服务，可通过 HTTP API 或 dsb 命令行操作网页。
     link: https://deepseek-browser-use.io.nexus/
     linkText: 阅读文档
+  - title: eshell
+    details: 面向多项目开发的 Windows 桌面终端，包含 BranchTerm 本地终端与 eShell SSH 工作台，将项目、会话和文件预览放在同一窗口。
+    link: https://eshell.io.nexus/
+    linkText: 阅读文档
 ---
