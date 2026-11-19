@@ -48,4 +48,8 @@ features:
     details: 面向多项目开发的 Windows 桌面终端，包含 BranchTerm 本地终端与 eShell SSH 工作台，将项目、会话和文件预览放在同一窗口。
     link: https://eshell.io.nexus/
     linkText: 阅读文档
+  - title: deploy
+    details: 轻量、自托管的 CI/CD 平台，项目负责构建与部署、任务负责运维作业，含运行日志、Hook 与中间件管理。
+    link: https://deploy.io.nexus/
+    linkText: 阅读文档
 ---
